@@ -1,0 +1,16 @@
+{
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ],
+    "compilerOptions": {
+        "incremental": false,
+        "outDir": "dist",
+        "target": "ES2021",
+        "module": "ESNext",
+        "moduleResolution": "node"
+    },
+}

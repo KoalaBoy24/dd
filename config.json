@@ -1,0 +1,15 @@
+{
+    "botToken": "OTE4NTQ1NDUxNjA1NzAwNjE5.YbI0HQ.UmWWsg8ea7otQmD87QDk9r8AEUs",
+    "guildId": "406143992871387137",
+    "adminChannelId": "679842196559495198",
+    "moderatorRoleId": "899923514457477122",
+    "tradingChannelId": "918884787027075142",
+    "coinFlipChannelId": "918614729600139274",
+    "commandsChannelId": "918627251380174859",
+    "giveawayPingRoleId": "840556403562512416",
+    "appCheckToken": "eyJraWQiOiJsWUJXVmciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOjg3MTg0MzI2MTczMDphbmRyb2lkOjg4MGI5NWJhOWIwY2I2YWIxMDA5N2IiLCJhdWQiOlsicHJvamVjdHNcLzg3MTg0MzI2MTczMCIsInByb2plY3RzXC9tYWRmdXQtMjIiXSwiaXNzIjoiaHR0cHM6XC9cL2ZpcmViYXNlYXBwY2hlY2suZ29vZ2xlYXBpcy5jb21cLzg3MTg0MzI2MTczMCIsImV4cCI6MTY0MjY5NTQyNywiaWF0IjoxNjQyMTc3MDI3fQ.TCRh9P1kj-X5B5c3_gTK5Cz5zj8CvSA7rmVLX-t8ClyX3w_pIzt9xtjWz2bMUfLNAXexRtWfZe_yr43ssSej3_Dnp9QOlBbjvhj05VhXEMwaCt76dzJJfzOakyzWdQdgRrCyBug3x7ZiY3zP37e61vaN4FMdJBU-VhfCD_9SYjkbv9__C8m-tpuUn5lQQO8DEmRwdzwXeub_VbGnXXjpUyhFN_EX5MyUxzRPrNB4zmCb38SvuY0z_YkbqRWlI-1ZJuxuy8V0EDTf-qQHiwSa4Tgtuhoa3YphVd6Kk1uYyKuid9ju21dzzKckCivJAz28uitRIDIncJj0UBOctVqLvledtxr5lxDn252NE9o_VNP6UgV3mNnj2OU1MkGQtv1YPcXvPsFoiCRz4omOkjQNkZHJE6CeD0QriwL_LC68Y9ckWzZ2fuAbO48GM04eYGgTgSD1zVaRnhCzDL3D92GFmdQbn8bOFIW0TuPveoRgTBgqZ1mt7Dl3Qp9lvnE10jmf",
+    "madfutEmail": "johnheath323@gmail.com",
+    "madfutPassword": "melonfut2021",
+    "shoppySecret": "SECRET_HERE",
+    "shopLogChannelId": "679842196559495198"
+}
